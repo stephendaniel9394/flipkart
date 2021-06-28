@@ -5,4 +5,5 @@ When  the user must enter iphone in the search box
 And  click the search button
 And  print the list of products apeared with prices
 And print the price in ascending order
+And print
 Then to validate the prices in ascending order
